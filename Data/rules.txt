@@ -1,0 +1,39 @@
+
+Rules :
+
+In this game the players are controlling Pac-man and Ms.Pac-Men, who must eat all the pellets inside the maze while avoiding the ghosts.
+The four stars inside the maze cause the ghosts to turn blue and allos Pac-Man and Ms.Pac-Man to eat the ghosts for bonus points.
+But, watch-out, if you get hit by a ghost or if you get eat by the other player, you lose the game.
+
+
+Controls :
+
+Menu
+
+KEY_UP : Up
+KEY_DOWN : Down
+KEY_LEFT : Backward
+KEY_RIGHT : Forward
+
+
+Game
+
+i : Save
+Saving your game will make you back to the main menu.
+You can pursue your game with the Continue option from the main menu.
+
+Pac-Man (right one)
+
+KEY_UP : Up
+KEY_DOWN : Down
+KEY_LEFT : Left
+KEY_RIGHT : Right
+
+Ms.Pac-Man (left one)
+
+Z : Up
+S : Down
+D : Left
+Q : Right
+
+Press KEY_LEFT to go back to the main menu.
